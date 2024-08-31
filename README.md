@@ -5,4 +5,4 @@ It has the following features -
 
 - Anyone can create a todo
 - Anyone can see their exisfing todos
-- Anyone can mark a todo as done 
+- Anyone can mark a todo as done
